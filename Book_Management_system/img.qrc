@@ -1,0 +1,13 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="img">
+        <file>img/books.png</file>
+        <file>img/users.png</file>
+		<file>img/liberary.png</file>
+		<file>img/today.png</file>
+		<file>img/lib.png</file>
+		<file>img/settings.png</file>
+		<file>img/nile.png</file>
+		<file>img/nunu.png</file>
+    </qresource>
+</RCC>
