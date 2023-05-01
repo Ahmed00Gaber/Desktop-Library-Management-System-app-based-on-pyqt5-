@@ -1,6 +1,6 @@
 # Desktop Library Management System app based on pyqt5
 
-##Functional Requirements
+## Functional Requirements
 User should be able to :
 registration: The system allow users to register and create an account to access the library's services.
 Search and browse: Users able to search and browse for books by title, author, category.
